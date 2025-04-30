@@ -69,6 +69,7 @@ export default function LoginForm() {
               alt="Logo"
               width={100}
               height={100}
+              priority
               className="w-full bg-cover"
             />
           </CardTitle>

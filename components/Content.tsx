@@ -48,6 +48,7 @@ function Content({
                     alt="image"
                     width={500}
                     height={500}
+                    priority
                     className="object-cover rounded-xl"
                   />
                 </div>

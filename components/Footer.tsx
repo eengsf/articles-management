@@ -10,6 +10,7 @@ function Footer() {
           alt="logoipsum-white"
           width={500}
           height={500}
+          priority
           className="object-cover "
         />
       </div>

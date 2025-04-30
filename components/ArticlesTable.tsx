@@ -74,6 +74,7 @@ function ArticlesTable({
                           alt="article-image"
                           width={300}
                           height={300}
+                          priority
                           className="object-cover w-full h-full"
                         />
                       </div>

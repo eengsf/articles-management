@@ -55,7 +55,7 @@ function RegisterForm() {
     <Card className="w-full max-w-[400px] border-none sm:border sm:rounded-md">
             <CardHeader>
               <CardTitle className="m-auto w-36 h-6">
-                <Image src="/logoipsum.svg" alt="Logo" width={100} height={100} className="w-full bg-cover" />
+                <Image src="/logoipsum.svg" alt="Logo" width={100} height={100} priority className="w-full bg-cover" />
               </CardTitle>
             </CardHeader>
             <CardContent>

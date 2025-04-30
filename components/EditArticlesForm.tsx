@@ -129,6 +129,7 @@ export default function EditArticleForm({
                   className="object-contain h-full w-full rounded-xl"
                   width={500}
                   height={500}
+                  priority
                 />
               ) : (
                 <div className="flex flex-col items-center text-gray-500">
